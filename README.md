@@ -39,7 +39,7 @@ The dashboard helps identify:
 - Excel
 
 ## Dashboard Preview
-![Call Center Dashboard](callcenter.png)
+![Call Center Dashboard](callcentre.png)
 
 ---
 
